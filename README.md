@@ -10,7 +10,7 @@
 
   <img width="80%" src="https://github.com/whithss/whithss/blob/main/program.gif?raw=true" alt="">
     <h2>sou um desenvolvedor de software bem simpático...</h2>
-     <img src="https://github.com/whithss/whithss/blob/main/skills.jpg?raw=true" alt="">
+     <img src="https://github.com/whithss/whithss/blob/main/1.jpg?raw=true" alt="">
   
   <h2>Github Stats : </h2>
 

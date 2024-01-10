@@ -9,7 +9,7 @@
 
 
   <img width="80%" src="https://github.com/whithss/whithss/blob/main/program.gif?raw=true" alt="">
-    <h2>I am a guy passionate about IT, freelance developer, backend and front end</h2>
+    <h2> backend and front end</h2>
      <img src="https://github.com/whithss/whithss/blob/main/skills.jpg?raw=true" alt="">
   
   <h2>Github Stats : </h2>
@@ -21,6 +21,6 @@
   <br>
   <br>
         <br>
-        <h2>Follow me and like my repositories for more</h2>
+        <h2>Siga-me e curta meus repositórios para mais </h2>
         <img src="https://github.com/whithss/whithss/blob/main/thanks.gif?raw=true" alt="">
 </div>

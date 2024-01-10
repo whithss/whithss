@@ -9,7 +9,7 @@
 
 
   <img width="80%" src="https://github.com/whithss/whithss/blob/main/program.gif?raw=true" alt="">
-    <h2> backend and front end</h2>
+    <h2>sou um desenvolvedor de software bem simpático...</h2>
      <img src="https://github.com/whithss/whithss/blob/main/skills.jpg?raw=true" alt="">
   
   <h2>Github Stats : </h2>
@@ -24,3 +24,5 @@
         <h2>Siga-me e curta meus repositórios para mais </h2>
         <img src="https://github.com/whithss/whithss/blob/main/thanks.gif?raw=true" alt="">
 </div>
+
+<h2>Se quiser me dar um Cookie 🍪 eu aceito</h2>
